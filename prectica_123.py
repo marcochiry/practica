@@ -1,0 +1,5 @@
+num1= float(imput("digite um numero: ")) # imput es una funcion que permite al usuario ingresar datos por teclado, en este caso se le pide que ingrese un numero, el float convierte ese numero a un numero decimal, si el usuario ingresa un numero entero se convertira a decimal agregando un punto y un cero al final, por ejemplo si el usuario ingresa 5 se convertira a 5.0
+
+num2 = float(imput("digite el otro numero: ")) # imput es una funcion que permite al usuario ingresar datos por teclado, en este caso se le pide que ingrese un numero, el float convierte ese numero a un numero decimal, si el usuario ingresa un numero entero se convertira a decimal agregando un punto y un cero al final, por ejemplo si el usuario ingresa 5 se convertira a 5.0
+
+suma = num1 + num2 # esta linea de codigo realiza la suma de los dos numeros ingresados por el usuario y almacena el resultado en la variable suma
